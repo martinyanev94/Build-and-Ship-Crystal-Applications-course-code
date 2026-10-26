@@ -1,0 +1,9 @@
+name: reading-report
+version: 1.0.0
+authors:
+  - Course Team <team@example.com>
+targets:
+  reading-report:
+    main: src/main.cr
+crystal: ">= 1.0.0"
+license: MIT
