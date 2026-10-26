@@ -1,0 +1,11 @@
+name: crystal-documentation-package
+version: 0.1.0
+
+authors:
+  - BookToCourse <course@example.com>
+
+targets:
+  reading_library:
+    main: src/main.cr
+
+license: MIT
