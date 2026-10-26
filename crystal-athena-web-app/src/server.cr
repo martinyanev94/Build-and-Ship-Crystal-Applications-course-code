@@ -1,0 +1,2 @@
+require "./blog"
+ATH.run
