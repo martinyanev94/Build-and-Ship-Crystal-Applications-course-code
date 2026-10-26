@@ -1,0 +1,2 @@
+# Build-and-Ship-Crystal-Applications-course-code
+Learn Crystal programming by building and shipping useful native, CLI, web, and concurrent applications. This practical Crystal course takes you from typed fundamentals to tested, documented, packaged, and automated production delivery. You’ll learn how to: - Build optimized Crystal executables and structured CLI tools - Work with types, structs, g
