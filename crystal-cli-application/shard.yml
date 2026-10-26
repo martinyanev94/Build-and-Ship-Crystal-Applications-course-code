@@ -1,0 +1,6 @@
+name: transform
+version: 0.1.0
+
+targets:
+  transform:
+    main: src/transform_cli.cr
